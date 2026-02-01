@@ -22,7 +22,7 @@
     "buildbot-data-js": "link:../react-data-module",
     "buildbot-plugin-support": "link:../plugin_support",
     "buildbot-ui": "link:../react-ui",
-    "eslint": "^7.11.0",
+    "eslint": "^9.26.0",
     "eslint-config-react-app": "^6.0.0",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-import": "^2.22.1",
