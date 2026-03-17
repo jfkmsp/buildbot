@@ -85,7 +85,7 @@ Pillow==10.3.0
 platformdirs==4.2.1
 psutil==5.9.8
 pyaml==24.4.0
-pyasn1==0.6.0
+pyasn1==0.6.3
 pyasn1-modules==0.4.0
 pycodestyle==2.11.1;  python_version >= "3.8.1"
 pycparser==2.22
